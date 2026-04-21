@@ -2,7 +2,7 @@ local placeId = game.PlaceId
 
 local scripts = {
     [189707] = "https://raw.githubusercontent.com/JOAOXD842/ProjectAnkNDS/refs/heads/main/PANDS.lua",
-  --  [9876543210] = "https://raw.githubusercontent.com/seu/script2.lua",
+    [13772394625] = "https://raw.githubusercontent.com/JOAOXD842/ProjectAnkBladeBall/refs/heads/main/BladeBallPA.lua",
 }
 
 local url = scripts[placeId]
