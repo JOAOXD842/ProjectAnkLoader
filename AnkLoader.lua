@@ -12,3 +12,5 @@ if url then
 else
     warn("Game Not Supported", placeId)
 end
+-- Currently Supports Natural Disaster Survival, Blade Ball.
+-- v1.0.1
